@@ -1,4 +1,4 @@
-## Hi, youä've reached Kaddio on Github 👋
+## Hi, you've reached Kaddio on Github 👋
 
 We make [Kaddio](https://kaddio.com)
 
